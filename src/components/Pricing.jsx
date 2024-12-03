@@ -7,19 +7,19 @@ const Pricing = () => {
     {
       imgUrl: "/pricing.jpg",
       title: "QUARTERLY",
-      price: 18000,
+      price: 1800,
       length: 3,
     },
     {
       imgUrl: "/pricing.jpg",
       title: "HEAL_YEARLY",
-      price: 34000,
+      price: 3400,
       length: 6,
     },
     {
       imgUrl: "/pricing.jpg",
       title: "YEARLY",
-      price: 67000,
+      price: 6700,
       length: 12,
     },
   ];
